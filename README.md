@@ -1,5 +1,5 @@
 # comp2245-assignment1
-This is Assignment 1 for <Sequoyah Simmons>
+This is Assignment 1 for Sequoyah Simmons
 ## Branching
 Branching allows you to isolate development work without
 affecting other branches in the repository. Each repository
